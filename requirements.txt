@@ -1,0 +1,7 @@
+tornado==4.4.2
+ujson==1.35
+qrcode==5.3
+lxml==4.1.0
+Pillow==4.3.0
+nameko==2.7.0
+gunicorn
